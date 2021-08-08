@@ -2,7 +2,6 @@
 
 ## EXTENSIONS
 
-![alt text](./extensions-1.png)
 
 #### _Auto Rename Tag_
 
@@ -11,6 +10,20 @@ Auto rename paired HTML/XML tag
 #### _Bracket Pair Colorizer_
 
 A customizable extension for colorizing matching brackets
+
+#### Inline Parameters
+
+An extension for Visual Studio Code that adds inline parameter annotations when calling a function.
+
+#### HTML End Tag Labels
+
+Labels HTML end tags in VSCode.
+
+#### TO-DO Tree
+
+This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
+
+
 
 #### _ES7 React/Redux/GraphQL/React-Native snippets_
 
